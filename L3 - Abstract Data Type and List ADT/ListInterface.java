@@ -1,4 +1,4 @@
-package hw3_19000311;
+package AbstractDataTypAndListADT;
 
 public interface ListInterface<T> extends Iterable<T>{
     public void add(T data); //Thêm phần tử vào danh sách
