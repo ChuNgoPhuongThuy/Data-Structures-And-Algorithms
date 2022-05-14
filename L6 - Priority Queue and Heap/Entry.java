@@ -1,4 +1,4 @@
-package hw6_19000299;
+package PriorityQueueAndHeap;
 
 public interface Entry <K, E> {
     K getKey(); //K là khóa của phần tử
