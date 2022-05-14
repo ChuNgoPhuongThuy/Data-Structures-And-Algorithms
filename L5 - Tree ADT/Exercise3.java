@@ -1,4 +1,4 @@
-package hw5_19000311;
+package TreeADT;
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Stack;
