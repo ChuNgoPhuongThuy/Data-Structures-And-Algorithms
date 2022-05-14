@@ -1,4 +1,4 @@
-package hw7;
+package SearchingAndBST;
 
 import java.io.FileWriter;
 import java.io.IOException;
