@@ -1,4 +1,4 @@
-package hw4_19000311;
+package StackAndQueueADT;
 
 public interface StackInterface<E> extends Iterable<E> {
     public void push(E element);
