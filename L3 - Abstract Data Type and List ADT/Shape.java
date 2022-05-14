@@ -1,4 +1,4 @@
-package hw3_19000311;
+package AbstractDataTypAndListADT;
 
 public abstract class Shape {
     protected String name;
