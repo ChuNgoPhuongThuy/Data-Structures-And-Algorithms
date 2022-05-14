@@ -1,4 +1,4 @@
-package hw7;
+package SearchingAndBST;
 
 public interface BinaryTreeInterface<T> {
     T root();
