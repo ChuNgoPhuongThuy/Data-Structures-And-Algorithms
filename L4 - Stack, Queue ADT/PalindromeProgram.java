@@ -1,4 +1,4 @@
-package hw4_19000311;
+package StackAndQueueADT;
 
 import hw4_19000311.LinkedListQueue;
 import java.util.Scanner;
