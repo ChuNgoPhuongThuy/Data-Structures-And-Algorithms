@@ -1,4 +1,4 @@
-package hw5_19000311;
+package TreeADT;
 
 public interface BinaryTreeInterface<T> {
     T root();
