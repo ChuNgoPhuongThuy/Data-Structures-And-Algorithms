@@ -1,4 +1,4 @@
-package hw4_19000311;
+package StackAndQueueADT;
 
 public interface QueueInterface<E> extends Iterable<E> {
     public void enqueue(E element);
