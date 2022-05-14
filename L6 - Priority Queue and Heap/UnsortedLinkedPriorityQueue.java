@@ -1,4 +1,4 @@
-package hw6_19000299;
+package PriorityQueueAndHeap;
 
 
 public class UnsortedLinkedPriorityQueue<K extends Comparable, E> implements PriorityQueueInterface {
