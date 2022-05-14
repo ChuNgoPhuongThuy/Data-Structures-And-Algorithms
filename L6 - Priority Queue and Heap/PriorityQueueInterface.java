@@ -1,4 +1,4 @@
-package hw6_19000299;
+package PriorityQueueAndHeap;
 
 public interface PriorityQueueInterface<K, E> {
     public int size();
