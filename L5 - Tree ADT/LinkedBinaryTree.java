@@ -1,4 +1,4 @@
-package hw5_19000311;
+package TreeADT;
 
 public class LinkedBinaryTree<E, T> implements BinaryTreeInterface<T> {
     @Override
