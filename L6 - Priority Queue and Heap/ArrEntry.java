@@ -1,4 +1,4 @@
-package hw6_19000299;
+package PriorityQueueAndHeap;
 
 public class ArrEntry<K, E> implements Entry<K, E> {
     K key;
