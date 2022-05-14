@@ -4,7 +4,7 @@ I. Giới thiệu:
 - Giảng viên: PGS.TS. Nguyễn Thị Hồng Minh
 - Sinh viên: Chu Ngô Phương Thủy
 - Khoa: Toán - Cơ - Tin học
-- Trường Đại học Khoa học Tự Nhiên - Đại học Quốc Gia Hà Nội
+- Trường Đại Học Khoa học Tự Nhiên - Đại Học Quốc Gia Hà Nội
 
 II. Giáo trình bắt buộc
 
