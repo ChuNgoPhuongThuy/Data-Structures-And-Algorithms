@@ -1,4 +1,4 @@
-package hw3_19000311;
+package AbstractDataTypAndListADT;
 
 public class SimpleLinkedList<T> {
     class Node {
