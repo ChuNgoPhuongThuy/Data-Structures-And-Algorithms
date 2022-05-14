@@ -1,4 +1,4 @@
-package hw2_19000311;
+package Sorting;
 
 import java.util.Scanner;
 
