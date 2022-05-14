@@ -1,4 +1,4 @@
-package hw6_19000299;
+package PriorityQueueAndHeap;
 
 public class SortedLinkedPriorityQueue<K extends Comparable, E> implements PriorityQueueInterface {
     protected static class NodeEntry<K,E> implements Entry<K, E> {
