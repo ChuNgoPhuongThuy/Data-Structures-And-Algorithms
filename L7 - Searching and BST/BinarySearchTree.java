@@ -1,4 +1,4 @@
-package hw7;
+package SearchingAndBST;
 
 public class BinarySearchTree<E extends Comparable<E>, T> extends LinkedBinaryTree<E, T> {
 
