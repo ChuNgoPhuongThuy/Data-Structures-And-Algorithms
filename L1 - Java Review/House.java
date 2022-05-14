@@ -1,4 +1,4 @@
-package hw1_19000311;
+package JavaReview;
 
 import java.util.Scanner;
 
